@@ -1,0 +1,44 @@
+h1{
+	text-align: center;
+    font-size: :45px;
+    font-size: 65px;
+	margin-top: 58px;
+    font-family: monospace;
+	color:white
+}
+body{
+	    background-color: #ffa362;
+		margin-bottom:60px;
+}
+.fahim{
+	        color: black;
+    font-family: monospace;
+    font-size: 20px;
+    margin-top: 55px;
+    margin-left: 75px;
+    margin-right: 30px
+}
+table{
+	    margin-left: auto;
+    margin-right: auto;
+    width: 1050px;
+	font-size: 20px;
+	
+}
+tr{
+	font-family:monospace;
+	color:black;
+	background-color:#cacaca;
+}
+th{
+	font-size:25px;
+	color:white;
+}
+.farhan{
+	text-align:center;
+	color:white;
+	font-size:30px;
+	font-family:monospace;
+}
+td{text-align:center;
+}
